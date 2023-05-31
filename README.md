@@ -6,11 +6,11 @@ This Dataset used from kaggle website. I have analyzed
 * Finding relations between features.
 
 ## Data Cleaning:
-Deleting redundant columns.
-Renaming the columns.
-Dropping duplicates.
-Cleaning individual columns.
-Remove the NaN values from the dataset
+* Deleting redundant columns.
+* Renaming the columns.
+* Dropping duplicates.
+* Cleaning individual columns.
+* Remove the NaN values from the dataset
 
 ## Data Visualization:
 ## Restaurants delivering Online or not
